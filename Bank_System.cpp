@@ -69,7 +69,7 @@ main(){
 	char op;
 	do{
 		system("cls");
-		cout<<"\t\t::Bank Management System"<<endl;
+		cout<<"\t\t Bank Management System:"<<endl;
 		cout<<"\t\t\tMain Menu"<<endl;
 		cout<<"\t\t1. Creat New Account"<<endl;
 		cout<<"\t\t2. Show All Account"<<endl;
