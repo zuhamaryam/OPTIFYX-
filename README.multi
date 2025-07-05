@@ -1,0 +1,47 @@
+Matrix Multiplication using Multithreading in C++
+
+  Description
+
+This project demonstrates the implementation of Matrix Multiplication in C++ using both single-threaded and multi-threaded approaches. It compares the performance of the two methods and prints detailed step-by-step calculations for small matrices.
+
+The project is ideal for understanding multithreading in C++, performance optimization, and element-wise matrix operations.
+
+  Features
+
+  Single-threaded matrix multiplication
+
+  Multithreaded matrix multiplication (one thread per row)
+
+  Performance comparison between both methods
+
+  Element-wise output showing how each matrix element is computed
+
+  Clean, readable output for console display
+
+   Technology Stack
+
+Programming Language: C++
+
+Concepts Used:
+
+Multithreading (std::thread)
+
+Matrix Operations
+
+Performance Measurement (<chrono>)
+
+Element-wise Debug Printing
+
+Vectors and Loops
+
+  How to Run
+
+  Prerequisites:
+
+C++11 or higher
+
+A C++ compiler like g++, Visual Studio, or Code::Blocks
+
+  Steps:
+
+Clone this repository:
